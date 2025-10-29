@@ -20,3 +20,6 @@ Ao gerar conteúdo para este projeto:
 
 - **Focado em aprendizado**: Todo conteúdo deve ser projetado com objetivos de aprendizado claros e níveis de dificuldade apropriados
 - **Amigável para estudantes**: Use linguagem clara e encorajadora que motiva os estudantes a explorar e aprender
+- **Acessível**: Certifique-se de que o conteúdo seja acessível a todos os estudantes, incluindo aqueles com necessidades especiais
+- **Interativo**: Sempre que possível, inclua elementos interativos para engajar os estudantes, como quizzes ou exemplos de código executáveis
+- **Feedback construtivo**: Forneça feedback útil e construtivo para ajudar os estudantes a melhorar suas habilidades 
